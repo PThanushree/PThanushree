@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+👋+I%27m+Thanushree+P;Tech+Enthusiast+%7C+CS+Undergrad" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Hi+👋+I%27m+Thanushree+P;Tech+Enthusiast+%7C+CS+Undergrad" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -75,9 +75,13 @@
 </p>
 
 ---
+<p align="center">
+  <!-- GitHub Stats in dark theme always -->
+  <img src="https://github-readme-stats.vercel.app/api?username=pthanushree&show_icons=true&theme=dark" alt="GitHub Stats" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pthanushree&show_icons=true&locale=en&layout=compact" alt="pthanushree" /></p>
+<p align="center">
+  <!-- Streak Stats in dark theme always -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pthanushree&theme=dark" alt="GitHub Streak" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pthanushree&show_icons=true&locale=en" alt="pthanushree" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pthanushree&" alt="pthanushree" /></p>
