@@ -75,6 +75,11 @@
 </p>
 
 ---
+
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20Dark.png" width="100px" height="100px" alt="Postman Dark Logo" />
+
+
+---
 <p align="center">
   <!-- GitHub Stats in dark theme always -->
   <img src="https://github-readme-stats.vercel.app/api?username=pthanushree&show_icons=true&theme=dark" alt="GitHub Stats" />
