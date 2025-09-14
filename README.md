@@ -1,6 +1,9 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Hi+👋+I%27m+Thanushree+P;Tech+Enthusiast+%7C+CS+Undergrad" alt="Typing SVG" />
-</p>
+
+
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Hi+👋+I%27m+Thanushree+P;Tech+Enthusiast+%7C+CS+Undergrad" alt="Typing SVG" />
+  </p>
+
 
 <p align="center">
   <picture>
@@ -49,16 +52,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" title="Node" width="40" height="40"/>&nbsp;
+        <img width="5" />
+ 
 
    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" style="margin: 10px;"/> 
-  </a> 
-
-   <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" style="margin: 10px;"/> 
   </a> 
 </div>
 
