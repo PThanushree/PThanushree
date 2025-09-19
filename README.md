@@ -100,14 +100,20 @@
 
 
 ---
+
 <p align="center">
-  <!-- GitHub Stats in dark theme always -->
-  <img src="https://github-readme-stats.vercel.app/api?username=pthanushree&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats-bpp7.vercel.app/api?username=pthanushree&theme=dracula&show_icons=true&hide_border=true&include_all_commits=true" />
 </p>
 
 <p align="center">
-  <!-- Streak Stats in dark theme always -->
+  <!-- Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pthanushree&theme=dark" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <!-- Most Commit Language -->
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pthanushree&theme=tokyonight" />
 </p>
 
 
