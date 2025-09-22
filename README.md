@@ -1,7 +1,7 @@
 
 
  <p align="center">
-  <img src="https://raw.githubusercontent.com/PThanushree/PThanushree/main/bg.gif" width="100%" alt="Animated Background" />
+  <img src="https://github.com/PThanushree/PThanushree/blob/main/bg%232.gif" width="100%" height="250px" alt="Animated Background" />
 </p>
 
 <p align="center">
