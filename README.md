@@ -1,12 +1,8 @@
 
 
-  <p align="center">
-   <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Hello+🙋‍♀️,+this+is+Thanushree+P;Tech+Enthusiast+%7C+CS+Undergrad" alt="Typing SVG" />
+ <p align="center">
+  <img src="https://raw.githubusercontent.com/PThanushree/PThanushree/main/bg.gif" width="100%" alt="Animated Background" />
 </p>
-
-  </p>
-
 
 <p align="center">
   <picture>
